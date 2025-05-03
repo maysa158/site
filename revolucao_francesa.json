@@ -1,0 +1,83 @@
+{
+  "id": "revolucao_francesa",
+  "title": "A Revolução Francesa e o Iluminismo",
+  "description": "Explore os eventos cruciais da Revolução Francesa, as ideias iluministas que a influenciaram e suas profundas transformações sociais.",
+  "timeline": [
+    {
+      "year": 1789,
+      "event": "Queda da Bastilha",
+      "details": "Marco inicial da Revolução Francesa, simbolizando a derrubada do Antigo Regime.",
+      "philosophy_context": "Influenciada por ideais iluministas de liberdade e questionamento da autoridade absoluta. Rousseau e a soberania popular ganham destaque.",
+      "sociology_context": "Agravamento da crise social e econômica do Terceiro Estado. A tomada da Bastilha representa a ação coletiva contra a opressão."
+    },
+    {
+      "year": 1789,
+      "event": "Declaração dos Direitos do Homem e do Cidadão",
+      "details": "Documento fundamental que proclama direitos universais como liberdade, igualdade e fraternidade.",
+      "philosophy_context": "Fortemente baseada nas ideias de Locke (direitos naturais) e Rousseau (vontade geral). Consagra princípios iluministas.",
+      "sociology_context": "Tentativa de estabelecer uma nova base para a organização social, substituindo os privilégios de nascimento por direitos universais. Define o conceito de cidadão."
+    },
+    {
+      "year": "1793-1794",
+      "event": "Reinado do Terror",
+      "details": "Período de intensa repressão política e execuções em massa liderado pelos Jacobinos.",
+      "philosophy_context": "Debate sobre os limites da soberania popular e o uso da violência para garantir os ideais revolucionários. Contradições com os próprios princípios iluministas de liberdade.",
+      "sociology_context": "Radicalização do movimento revolucionário, conflitos entre facções (Girondinos vs. Jacobinos), e o uso do medo como instrumento de controle social."
+    }
+  ],
+  "dilemma": {
+    "title": "Justiça ou Vingança?",
+    "scenario": "Você é um cidadão em Paris durante o Reinado do Terror. Um vizinho, conhecido por suas críticas moderadas à revolução, é denunciado como 'inimigo do povo'. Você sabe que a acusação é provavelmente exagerada, mas denunciá-lo pode garantir sua própria segurança. O que você faz?",
+    "choices": [
+      {
+        "text": "Denunciar o vizinho para proteger a si mesmo e à sua família.",
+        "outcome": "Você garante sua segurança imediata, mas contribui para o clima de medo e injustiça. Sua ação reflete a pressão social e o medo que marcaram o período, levantando questões sobre moralidade em tempos de crise, como discutido por filósofos sobre ética e estado de exceção."
+      },
+      {
+        "text": "Tentar defender o vizinho ou permanecer em silêncio, arriscando sua própria segurança.",
+        "outcome": "Você mantém sua integridade moral, mas se coloca em risco. Sua escolha se alinha com princípios de justiça individual, mas desafia a 'vontade geral' radicalizada daquele momento, exemplificando o conflito entre consciência individual e pressão coletiva analisado por sociólogos e filósofos."
+      }
+    ]
+  },
+  "forum": {
+    "question": "A busca pela igualdade (como na Revolução Francesa) justifica a supressão temporária da liberdade individual?",
+    "viewpoints": [
+      "Sim, em momentos revolucionários, medidas drásticas são necessárias para garantir que os ideais de igualdade prevaleçam sobre os privilégios antigos.",
+      "Não, a liberdade individual é um direito fundamental que nunca deve ser sacrificado, mesmo em nome da igualdade. A supressão da liberdade leva à tirania.",
+      "É uma questão complexa. Talvez alguma limitação seja inevitável, mas deve ser mínima e estritamente temporária, com salvaguardas contra abusos."
+    ]
+  },
+  "quiz": [
+    {
+      "question": "Qual filósofo iluminista influenciou fortemente a ideia de 'direitos naturais' presente na Declaração dos Direitos do Homem e do Cidadão?",
+      "options": [
+        "Montesquieu",
+        "Voltaire",
+        "Locke",
+        "Rousseau"
+      ],
+      "answer": "Locke"
+    },
+    {
+      "question": "Do ponto de vista sociológico, a 'sociedade de ordens' na França pré-revolucionária era caracterizada principalmente por: ",
+      "options": [
+        "Igualdade de todos perante a lei.",
+        "Mobilidade social baseada no mérito.",
+        "Privilégios baseados no nascimento (Nobreza, Clero, Terceiro Estado).",
+        "Um forte senso de unidade nacional entre todas as classes."
+      ],
+      "answer": "Privilégios baseados no nascimento (Nobreza, Clero, Terceiro Estado)."
+    },
+    {
+      "question": "O 'Reinado do Terror' durante a Revolução Francesa exemplifica qual tensão ou contradição?",
+      "options": [
+        "O conflito entre a Monarquia e a República.",
+        "A luta pela liberdade de expressão contra a censura pré-revolucionária.",
+        "A tensão entre os ideais de liberdade/igualdade e o uso da violência estatal para impô-los.",
+        "A disputa econômica entre camponeses e burguesia."
+      ],
+      "answer": "A tensão entre os ideais de liberdade/igualdade e o uso da violência estatal para impô-los."
+    }
+  ]
+}
+
