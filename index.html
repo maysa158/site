@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conexões Humanas - Protótipo</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Conexões Humanas</h1>
+    </header>
+
+    <main id="app-content">
+        <!-- Conteúdo será carregado dinamicamente aqui -->
+        <section id="initial-screen">
+            <h2>Bem-vindo!</h2>
+            <p>Explore as conexões entre História, Filosofia e Sociologia através de módulos temáticos interativos.</p>
+            <h3>Módulos Disponíveis:</h3>
+            <div id="module-list">
+                <!-- Lista de módulos será carregada aqui -->
+            </div>
+        </section>
+
+        <section id="module-screen" class="hidden">
+            <!-- Conteúdo do módulo específico -->
+        </section>
+
+        <section id="dilemma-screen" class="hidden">
+            <!-- Conteúdo do dilema -->
+        </section>
+
+        <section id="forum-screen" class="hidden">
+            <!-- Conteúdo do fórum -->
+        </section>
+
+        <section id="quiz-screen" class="hidden">
+            <!-- Conteúdo do quiz -->
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Protótipo Educacional - Manus Team</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+    <!-- Scripts dos componentes podem ser carregados aqui ou gerenciados pelo app.js -->
+    <script src="js/components/timeline.js"></script>
+    <script src="js/components/dilemma.js"></script>
+    <script src="js/components/forum.js"></script>
+    <script src="js/components/quiz.js"></script>
+</body>
+</html>
+
